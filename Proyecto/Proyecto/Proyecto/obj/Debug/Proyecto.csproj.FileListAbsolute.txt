@@ -1,0 +1,7 @@
+C:\Users\elmer\Desktop\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\elmer\Desktop\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\elmer\Desktop\Proyecto\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\elmer\Desktop\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\elmer\Desktop\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\elmer\Desktop\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\elmer\Desktop\Proyecto\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
